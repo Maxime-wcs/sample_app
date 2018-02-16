@@ -1,0 +1,19 @@
+current directory: /home/fabien/Documents/sample_app/vendor/cache/ruby/2.4.0/gems/byebug-9.0.6/ext/byebug
+/usr/local/rvm/rubies/ruby-2.4.1/bin/ruby -r ./siteconf20180216-21407-l078w0.rb extconf.rb
+creating Makefile
+
+current directory: /home/fabien/Documents/sample_app/vendor/cache/ruby/2.4.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/fabien/Documents/sample_app/vendor/cache/ruby/2.4.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/fabien/Documents/sample_app/vendor/cache/ruby/2.4.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20180216-21407-lrxrn9/byebug
